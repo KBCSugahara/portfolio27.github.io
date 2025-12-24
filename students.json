@@ -1,0 +1,88 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "山田 太郎",
+      "major": "ゲームクリエイター科",
+      "year": "3年",
+      "summary": "Unityを使った3Dアクションゲーム開発を専攻。リアルタイム物理演算とAI実装に注力しています。",
+      "description": "ゲーム開発に情熱を注いでおり、特にUnityとC#を使用した3Dゲーム開発を得意としています。プレイヤーを夢中にさせるゲーム体験の創造を目指しています。",
+      "skills": ["Unity", "C#", "3D Modeling", "Game Design", "AI Programming"],
+      "portfolios": [
+        {
+          "title": "Cyber Runner - 3Dアクションゲーム",
+          "description": "近未来都市を舞台にしたパルクールアクションゲーム",
+          "url": "portfolios/yamada-cyber-runner.html"
+        },
+        {
+          "title": "Battle Arena - 対戦格闘ゲーム",
+          "description": "AI対戦モードを搭載した2D格闘ゲーム",
+          "url": "portfolios/yamada-battle-arena.html"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "佐藤 花子",
+      "major": "ゲームクリエイター科",
+      "year": "2年",
+      "summary": "2Dパズルゲームとモバイルゲーム開発に特化。UIデザインとユーザー体験設計を重視しています。",
+      "description": "プレイヤーが直感的に楽しめるゲームデザインを心がけています。Unity、C#を使ったモバイルゲーム開発と、魅力的なUIデザインを得意としています。",
+      "skills": ["Unity", "C#", "UI/UX Design", "2D Graphics", "Mobile Development"],
+      "portfolios": [
+        {
+          "title": "Puzzle Kingdom - パズルRPG",
+          "description": "マッチ3パズルとRPG要素を融合させたモバイルゲーム",
+          "url": "portfolios/sato-puzzle-kingdom.html"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "鈴木 一郎",
+      "major": "ゲームクリエイター科",
+      "year": "3年",
+      "summary": "UnrealEngineを使ったリアルな3Dゲーム開発とシェーダープログラミングを専攻しています。",
+      "description": "フォトリアルなグラフィックスとリアルタイムレンダリング技術に興味があります。UnrealEngineとC++を使用し、没入感のある3D世界を創造しています。",
+      "skills": ["Unreal Engine", "C++", "Blueprint", "Shader Programming", "Level Design"],
+      "portfolios": [
+        {
+          "title": "Lost in Forest - サバイバルホラー",
+          "description": "リアルな森を舞台にしたサバイバルホラーゲーム",
+          "url": "portfolios/suzuki-lost-forest.html"
+        },
+        {
+          "title": "Racing Evolution - レーシングゲーム",
+          "description": "物理演算にこだわったリアルなレーシングゲーム",
+          "url": "portfolios/suzuki-racing.html"
+        },
+        {
+          "title": "Shader Showcase - 技術デモ",
+          "description": "カスタムシェーダーを使用したビジュアルエフェクト集",
+          "url": "portfolios/suzuki-shader-demo.html"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "田中 美咲",
+      "major": "ゲームクリエイター科",
+      "year": "2年",
+      "summary": "インディーゲーム開発とゲームアート制作。ピクセルアートと2Dアニメーションが得意です。",
+      "description": "レトロゲームの魅力を現代に蘇らせるようなゲーム作りを目指しています。ピクセルアートと2Dアニメーション、ゲームデザインを総合的に学んでいます。",
+      "skills": ["Unity", "C#", "Pixel Art", "2D Animation", "Game Design"],
+      "portfolios": [
+        {
+          "title": "Pixel Adventure - 2Dプラットフォーマー",
+          "description": "ドット絵で描かれた王道2Dアクションゲーム",
+          "url": "portfolios/tanaka-pixel-adventure.html"
+        },
+        {
+          "title": "Café Story - 経営シミュレーション",
+          "description": "カフェを経営する癒し系シミュレーションゲーム",
+          "url": "portfolios/tanaka-cafe-story.html"
+        }
+      ]
+    }
+  ]
+}
