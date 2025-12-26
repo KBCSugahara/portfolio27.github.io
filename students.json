@@ -2,85 +2,129 @@
   "students": [
     {
       "id": 1,
-      "name": "山田 太郎",
+      "name": "谷本 優樹",
       "major": "ゲームクリエイター科",
-      "year": "3年",
-      "summary": "Unityを使った3Dアクションゲーム開発を専攻。リアルタイム物理演算とAI実装に注力しています。",
-      "description": "ゲーム開発に情熱を注いでおり、特にUnityとC#を使用した3Dゲーム開発を得意としています。プレイヤーを夢中にさせるゲーム体験の創造を目指しています。",
-      "skills": ["Unity", "C#", "3D Modeling", "Game Design", "AI Programming"],
+      "year": "2年",
+      "summary": "DirectXを使った3Dゲーム開発とシェーダープログラミングを専攻しています。",
+      "description": "レトロゲームの魅力を現代に蘇らせるようなゲーム作りを目指しています。ピクセルアートと2Dアニメーション、ゲームデザインを総合的に学んでいます。",
+      "skills": ["DirectX", "C++", "Shader Programming"],
       "portfolios": [
         {
-          "title": "Cyber Runner - 3Dアクションゲーム",
-          "description": "近未来都市を舞台にしたパルクールアクションゲーム",
-          "url": "portfolios/yamada-cyber-runner.html"
-        },
-        {
-          "title": "Battle Arena - 対戦格闘ゲーム",
-          "description": "AI対戦モードを搭載した2D格闘ゲーム",
-          "url": "portfolios/yamada-battle-arena.html"
+          "title": "CityPursuit - 3Dアクションゲーム",
+          "description": "都市を舞台にしたワイヤーアクションゲーム",
+          "url": "portfolios/tanaka-pixel-adventure.html"
         }
       ]
     },
     {
       "id": 2,
-      "name": "佐藤 花子",
+      "name": "高橋 拓之",
       "major": "ゲームクリエイター科",
       "year": "2年",
-      "summary": "2Dパズルゲームとモバイルゲーム開発に特化。UIデザインとユーザー体験設計を重視しています。",
-      "description": "プレイヤーが直感的に楽しめるゲームデザインを心がけています。Unity、C#を使ったモバイルゲーム開発と、魅力的なUIデザインを得意としています。",
-      "skills": ["Unity", "C#", "UI/UX Design", "2D Graphics", "Mobile Development"],
+      "summary": "数学が好きです。",
+      "description": "飛行機の物理挙動を実装しました。DirectX12でシェーダーを触りました。",
+      "skills": ["C++","Shader Programming"],
       "portfolios": [
         {
-          "title": "Puzzle Kingdom - パズルRPG",
-          "description": "マッチ3パズルとRPG要素を融合させたモバイルゲーム",
-          "url": "portfolios/sato-puzzle-kingdom.html"
+          "title": "IslandFligh",
+          "description": "フライトアクションゲーム",
+          "url": "https://takahasihiroyuki.github.io/IslandFlight-Portfolio.github.io/"
         }
       ]
     },
     {
       "id": 3,
-      "name": "鈴木 一郎",
+      "name": "永見 凜",
       "major": "ゲームクリエイター科",
-      "year": "3年",
-      "summary": "UnrealEngineを使ったリアルな3Dゲーム開発とシェーダープログラミングを専攻しています。",
-      "description": "フォトリアルなグラフィックスとリアルタイムレンダリング技術に興味があります。UnrealEngineとC++を使用し、没入感のある3D世界を創造しています。",
-      "skills": ["Unreal Engine", "C++", "Blueprint", "Shader Programming", "Level Design"],
+      "year": "2年",
+      "summary": "DirectXを用いたゲーム開発を主に行っています。アプリケーション側の設計や、処理負荷軽減に注力しています。",
+      "description": "DirectXを用いた、3Dアクションゲームを主に制作しています。ゲーム内部の設計部分に興味があり、誰でも読めるコードを書くことを意識して制作しています。",
+      "skills": ["C++", "C#", "HLSL", "Unity","DesignPattern"],
       "portfolios": [
         {
-          "title": "Lost in Forest - サバイバルホラー",
-          "description": "リアルな森を舞台にしたサバイバルホラーゲーム",
-          "url": "portfolios/suzuki-lost-forest.html"
-        },
-        {
-          "title": "Racing Evolution - レーシングゲーム",
-          "description": "物理演算にこだわったリアルなレーシングゲーム",
-          "url": "portfolios/suzuki-racing.html"
-        },
-        {
-          "title": "Shader Showcase - 技術デモ",
-          "description": "カスタムシェーダーを使用したビジュアルエフェクト集",
-          "url": "portfolios/suzuki-shader-demo.html"
+          "title": "GraveWave - FPSタワーディフェンス",
+          "description": "大量のゾンビから防壁を守るシューティングゲーム",
+          "url": "https://nagamirin.github.io/GraveWave-Portfolio.github.io/"
         }
       ]
     },
     {
       "id": 4,
-      "name": "田中 美咲",
+      "name": "三好 爽太",
       "major": "ゲームクリエイター科",
       "year": "2年",
-      "summary": "インディーゲーム開発とゲームアート制作。ピクセルアートと2Dアニメーションが得意です。",
+      "summary": "UnrealEngineを使ったリアルな3Dゲーム開発とシェーダープログラミングを専攻しています。",
       "description": "レトロゲームの魅力を現代に蘇らせるようなゲーム作りを目指しています。ピクセルアートと2Dアニメーション、ゲームデザインを総合的に学んでいます。",
-      "skills": ["Unity", "C#", "Pixel Art", "2D Animation", "Game Design"],
+      "skills": ["Unity", "C#", "C++","HLSL"],
       "portfolios": [
         {
-          "title": "Pixel Adventure - 2Dプラットフォーマー",
-          "description": "ドット絵で描かれた王道2Dアクションゲーム",
-          "url": "portfolios/tanaka-pixel-adventure.html"
-        },
+          "title": "ころりん",
+          "description": "ステージ上のオブジェクトを巻き込み塊を大きくする成長型アクションゲーム",
+          "url": "https://miyosisouta.github.io/ProjectKororin-Portfolio.github.io/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "山口 隼",
+      "major": "ゲームクリエイター科",
+      "year": "2年",
+      "summary": "2D/3Dの視点を切り替えるアクションゲーム開発を専攻。 カメラとステージの実装に尽力しています。",
+      "description": "2Dと3Dの視点切り替えを軸とした、独自のゲーム体験の構築を目指しています。空間の捉え方が変化するギミックを中心に、ゲームデザイン、2Dアニメーション、実装までを総合的に学習中。",
+      "skills": ["C++"],
+      "portfolios": [
         {
-          "title": "Café Story - 経営シミュレーション",
-          "description": "カフェを経営する癒し系シミュレーションゲーム",
-          "url": "portfolios/tanaka-cafe-story.html"
+          "title": "DimensionFlip - 2D/3Dアクションゲーム",
+          "description": "2D/3D視点を切り替えるアクションゲーム。",
+          "url": "https://yamaguchihayato.github.io/DimensionFlip-Portfolio.github.io/"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "酒井 風駕",
+      "major": "ゲームクリエイター科",
+      "year": "2年",
+      "summary": "C++を用いた3Dアクションゲーム開発を中心に、設計を意識した実装に取り組んでいます。",
+      "description": "実装では、クラスごとの責務分離や処理の委譲を意識し、状態遷移を用いた行動管理によって、拡張性・可読性の高いコード設計を心がけています。",
+      "skills": ["C++"],
+      "portfolios": [
+        {
+          "title": "CrazyGuys",
+          "description": "3Dパーティーアクションゲーム",
+          "url": "https://sakaifuga0807.github.io/.github.io/"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "林 彪",
+      "major": "ゲームクリエイター科",
+      "year": "2年",
+      "summary": "3Dアクションゲームが得意です。",
+      "description": "ステートパターンやマネージャークラスなど設計を学びつつ、ゲーム制作にも反映させてより知識を高めています。",
+      "skills": ["Unity", "C++", "Unity", "HLSL"],
+      "portfolios": [
+        {
+          "title": "WomderGarden",
+          "description": "ボスを倒してスターを手に入れる3Dアクションゲーム",
+          "url":"https://hayashihyou.github.io/WonderGarden-Portfolio.github.io/"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "下岡 南",
+      "major": "ゲームクリエイター科",
+      "year": "2年",
+      "summary": "UIの演出とデザインが好きです。",
+      "description": "画面の見せ方を工夫して、ゲームの雰囲気が伝わるUIを目指して制作をしています。",
+      "skills": ["Unity", "C#", "C++", "UI"],
+      "portfolios": [
+        {
+          "title": "おばけキッチン - 2Dプラットフォーマー",
+          "description":"overcoocked2みたいなゲーム",
+          "url": "https://shimooka-minami.github.io/ObakeKitchen-Portfolio.github.io/"
         }
       ]
     }
