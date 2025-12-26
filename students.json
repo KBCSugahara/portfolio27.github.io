@@ -6,13 +6,13 @@
       "major": "ゲームクリエイター科",
       "year": "2年",
       "summary": "DirectXを使った3Dゲーム開発とシェーダープログラミングを専攻しています。",
-      "description": "レトロゲームの魅力を現代に蘇らせるようなゲーム作りを目指しています。ピクセルアートと2Dアニメーション、ゲームデザインを総合的に学んでいます。",
+      "description": "振り子の原理を応用したワイヤーアクションを実装しました。ゲーム内の演出の魅せ方に興味があります。",
       "skills": ["DirectX", "C++", "Shader Programming"],
       "portfolios": [
         {
           "title": "CityPursuit - 3Dアクションゲーム",
           "description": "都市を舞台にしたワイヤーアクションゲーム",
-          "url": "portfolios/tanaka-pixel-adventure.html"
+          "url": "https://tanimotoyuuki.github.io/CityPursuit_Portfolio/"
         }
       ]
     },
