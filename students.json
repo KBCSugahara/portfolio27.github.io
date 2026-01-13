@@ -122,9 +122,25 @@
       "skills": ["Unity", "C#", "C++", "UI"],
       "portfolios": [
         {
-          "title": "おばけキッチン - 2Dプラットフォーマー",
+          "title": "おばけキッチン",
           "description":"overcoocked2みたいなゲーム",
           "url": "https://shimooka-minami.github.io/ObakeKitchen-Portfolio.github.io/"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "伊藤 侑生",
+      "major": "ゲームクリエイター科",
+      "year": "2年",
+      "summary": "3Dゲーム開発。3Dモデリングが得意です。",
+      "description": "将来を見据えた設計で開発することに注力を注いでおり、C++を使用した3Dゲーム開発を得意としております。プレイする人の笑顔を引き出すゲーム体験を目指しています",
+      "skills": ["C++", "3DModeling"],
+      "portfolios": [
+        {
+          "title": "DeliverEnergy",
+          "description": "缶を操作してゴールを目指す3Dアクションゲーム",
+          "url": "https://itoyusei245.github.io/"
         }
       ]
     }
